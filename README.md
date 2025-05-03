@@ -17,7 +17,8 @@ I'm an **Auditor** and **Blockchain Developer** passionate about mastering **Web
 - 📧 Email: shivanshnigam2582@gmail.com
 - contact: +91 6388398076
 
-Feel free to check out my repositories below to see my work and contributions to the blockchain ecosystem. Let's build the future of decentralized applications together! 💻✨
- a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to check out my repositories below to see my work and contributions to the blockchain ecosystem. Let's build the future of decentralized applications together! 
+
+
 
 
