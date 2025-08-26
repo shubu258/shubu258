@@ -24,7 +24,7 @@ I am a **Smart Contract Security Researcher** & **Developer** with **1.5+ years*
 
 ## 🚀 Current Focus
 
-**Rust & Solana:** Mastering Rust and Solana architecture for auditing and protocol security.
+**Rust & Solana:** Mastering Rust and Solana architecture for auditing and protocol security.<br>
 **EVM & Solidity:** Advancing Solidity/EVM expertise through a public contest.
 **On-Chain Development:** Building and deploying scalable dApps within the blockchain ecosystem.
 
