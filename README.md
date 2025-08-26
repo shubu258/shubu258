@@ -15,24 +15,24 @@ I am a **Smart Contract Security Researcher** & **Developer** with **1.5+ years*
 
 ## 📊 Technical Expertise
 
-**🖥️Programming Languages:** Solidity, Rust, Java, Python, JavaScript, SQL
-**🔐Smart Contract Security:** Auditing, vulnerability detection, gas optimization
-**🌐Protocols & Ecosystems:** DeFi, Chainlink, Aave, Uniswap V2/V3, Curve
-**⚙️Frameworks & Development Tools:** Foundry, Hardhat, Anvil, Remix
-**📡Full-Stack Integration:** Ethers.js, Node.js, Express.js, ReactJS, TailwindCSS, Astro
-**📊Data & Visualization Tools:** Tableau, PowerBI, Microsoft Office
+**🖥️Programming Languages:** Solidity, Rust, Java, Python, JavaScript, SQL<br>
+**🔐Smart Contract Security:** Auditing, vulnerability detection, gas optimization<br>
+**🌐Protocols & Ecosystems:** DeFi, Chainlink, Aave, Uniswap V2/V3, Curve<br>
+**⚙️Frameworks & Development Tools:** Foundry, Hardhat, Anvil, Remix<br>
+**📡Full-Stack Integration:** Ethers.js, Node.js, Express.js, ReactJS, TailwindCSS, Astro<br>
+**📊Data & Visualization Tools:** Tableau, PowerBI, Microsoft Office<br>
 
 ## 🚀 Current Focus
 
 **Rust & Solana:** Mastering Rust and Solana architecture for auditing and protocol security.<br>
-**EVM & Solidity:** Advancing Solidity/EVM expertise through a public contest.
-**On-Chain Development:** Building and deploying scalable dApps within the blockchain ecosystem.
+**EVM & Solidity:** Advancing Solidity/EVM expertise through a public contest.<br>
+**On-Chain Development:** Building and deploying scalable dApps within the blockchain ecosystem.<br>
 
 ## 🌐 Experience 
 
-**🔐Smart Contract Auditor:** Actively participated in audit contests and bug bounties, achieving a Sherlock ranking of #810, with verified findings including 2 high, 1 medium, and several low/informational vulnerabilities.
-**⛓️Smart Contract Developer:** Designed and deployed decentralized applications, focusing on secure, transparent, and efficient on-chain solutions.
-**🌐Freelance Professional:** Built and designed responsive websites and applications for multiple clients, delivering optimized user experiences and functional solutions.
+**🔐Smart Contract Auditor:** Actively participated in audit contests and bug bounties, achieving a Sherlock ranking of #810, with verified findings including 2 high, 1 medium, and several low/informational vulnerabilities.<br>
+**⛓️Smart Contract Developer:** Designed and deployed decentralized applications, focusing on secure, transparent, and efficient on-chain solutions.<br>
+**🌐Freelance Professional:** Built and designed responsive websites and applications for multiple clients, delivering optimized user experiences and functional solutions.<br>
 
 
 ## 💬 Let's Connect
