@@ -51,8 +51,10 @@ Welcome to my GitHub profile! I'm a dedicated **Smart Contract Security Research
 
 ## 🚀 Current Focus
 
-- **Rust & Solana:** Mastering Rust and Solana architecture for auditing and protocol security  
-- **EVM & Solidity:** Advancing Solidity/EVM expertise through public contests  
+- **Rust & Solana:** Mastering Rust and Solana architecture for auditing and protocol security
+ 
+- **EVM & Solidity:** Advancing Solidity/EVM expertise through public contests
+ 
 - **On-Chain Development:** Building and deploying scalable dApps across the blockchain ecosystem  
 
 ---
@@ -60,15 +62,10 @@ Welcome to my GitHub profile! I'm a dedicated **Smart Contract Security Research
 ## 🌐 Experience
 
 - 🔐 **Smart Contract Auditor:** Participated in audit contests and bug bounties, achieving a **Sherlock ranking of #810**, with findings including **2 High, 1 Medium, and several Low/Informational vulnerabilities**.
-- 
+ 
 - ⛓️ **Smart Contract Developer:** Designed and deployed decentralized applications with a focus on **security, transparency, and efficiency**.
-- 
+ 
 - 🌐 **Freelance Web Developer & UI/UX Designer:** Built and designed responsive websites and applications for multiple clients, delivering optimized user experiences and functional solutions.  
-
----
-
-## 💬 Let’s Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/shivansh-nigam-0x258/)  
 - 📧 Email: **shivanshnigam2582@gmail.com**  
 - 📱 Contact: **+91 6388398076**  
