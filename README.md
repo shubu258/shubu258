@@ -1,6 +1,6 @@
 # Hi there, I'm Shivansh Nigam 👋
 
-I'm an **Auditor** and **Blockchain Developer** passionate about mastering **Web3** technologies. With a strong foundation in **Solidity**, **Ethereum**, and **Smart Contracts**, I am continuously exploring and developing decentralized applications (dApps) to make the Web3 ecosystem more secure, transparent, and decentralized.
+I am a **Smart Contract Security Researcher** & **Developer** with **1.5+ years** of experience specializing in auditing and securing decentralized applications. My work focuses on identifying vulnerabilities, optimizing gas usage, and ensuring robust security in blockchain protocols. Alongside my security expertise, I am proficient in developing smart contracts and integrating them into full-stack systems, with hands-on experience in **Solidity, Ethers.js, React, Node.js, and frameworks like Foundry and Hardhat**. Currently in the final year of my B.Tech in Information Technology, I combine research-driven security insights with strong development skills to deliver scalable, efficient, and secure Web3 solutions.
 
 
 ## 📊 Audit Impact Summary
@@ -13,15 +13,26 @@ I'm an **Auditor** and **Blockchain Developer** passionate about mastering **Web
 
 ---
 
+## 📊 Technical Expertise
+
+**🖥️Programming Languages:** Solidity, Rust, Java, Python, JavaScript, SQL
+**🔐Smart Contract Security:** Auditing, vulnerability detection, gas optimization
+**🌐Protocols & Ecosystems:** DeFi, Chainlink, Aave, Uniswap V2/V3, Curve
+**⚙️Frameworks & Development Tools:** Foundry, Hardhat, Anvil, Remix
+**📡Full-Stack Integration:** Ethers.js, Node.js, Express.js, ReactJS, TailwindCSS, Astro
+**📊Data & Visualization Tools:** Tableau, PowerBI, Microsoft Office
 
 ## 🚀 Current Focus
-- **Blockchain Security**: Auditing smart contracts for vulnerabilities and ensuring secure decentralized applications.
-- **Web3 Development**: Building and deploying dApps, leveraging the power of blockchain technologies like **Ethereum** and **Chainlink**.
 
-## 🌱 What I'm Learning
-- In-depth **Web3** and **DeFi** (Decentralized Finance) protocols.
-- **Blockchain Security Best Practices**: Auditing, risk analysis, and ensuring secure deployments.
-- Advanced **Solidity** and **Ethereum Smart Contracts**.
+**Rust & Solana:** Mastering Rust and Solana architecture for auditing and protocol security.
+**EVM & Solidity:** Advancing Solidity/EVM expertise through a public contest.
+**On-Chain Development:** Building and deploying scalable dApps within the blockchain ecosystem.
+
+## 🌐 Experience 
+
+**🔐Smart Contract Auditor:** Actively participated in audit contests and bug bounties, achieving a Sherlock ranking of #810, with verified findings including 2 high, 1 medium, and several low/informational vulnerabilities.
+**⛓️Smart Contract Developer:** Designed and deployed decentralized applications, focusing on secure, transparent, and efficient on-chain solutions.
+**🌐Freelance Professional:** Built and designed responsive websites and applications for multiple clients, delivering optimized user experiences and functional solutions.
 
 
 ## 💬 Let's Connect
