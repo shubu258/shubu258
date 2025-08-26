@@ -2,6 +2,18 @@
 
 I'm an **Auditor** and **Blockchain Developer** passionate about mastering **Web3** technologies. With a strong foundation in **Solidity**, **Ethereum**, and **Smart Contracts**, I am continuously exploring and developing decentralized applications (dApps) to make the Web3 ecosystem more secure, transparent, and decentralized.
 
+
+## 📊 Audit Impact Summary
+| Project | Platform | Vulnerabilities Found | Total |
+|---------|:--------:|:---------------------:|:-----:|
+| **RAAC** | CodeHawks | 2 High, 2 low | **4** |
+| **Dodo** | Sherlock |  1 Medium | **1** |
+| **Allibrage** | cantina | 1 low, 4 Info | **5** |
+| **TOTAL** | **All Platforms** | **2 High, 1 Medium, 3 low, 4 Info** | **10** |
+
+---
+
+
 ## 🚀 Current Focus
 - **Blockchain Security**: Auditing smart contracts for vulnerabilities and ensuring secure decentralized applications.
 - **Web3 Development**: Building and deploying dApps, leveraging the power of blockchain technologies like **Ethereum** and **Chainlink**.
