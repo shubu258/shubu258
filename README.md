@@ -10,7 +10,7 @@ My work blends **deep EVM security expertise** with **practical on-chain develop
 
 # 🏢 Experience
 
-### **RecurXPay | Blockchain Developer **  
+### **RecurXPay | Blockchain Developer**  
 **Sept 2025 – Oct 2025**
 - Designed and implemented smart contracts for **ERC-20, vesting, presale, and wallet systems**.  
 - Optimized contracts for **30%+ gas reduction**.  
