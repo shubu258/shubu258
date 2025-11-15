@@ -8,6 +8,17 @@ My work blends **deep EVM security expertise** with **practical on-chain develop
 
 ---
 
+# 🏢 Experience
+
+### **RecurXPay | Blockchain Developer **  
+**Sept 2025 – Oct 2025**
+- Designed and implemented smart contracts for **ERC-20, vesting, presale, and wallet systems**.  
+- Optimized contracts for **30%+ gas reduction**.  
+- Performed deep protocol testing using **fuzzing, invariants, and mainnet forking**.  
+- Conducted manual audits using Slither, Echidna, and custom checklists.
+
+---
+
 # 🔐 **Security & Audit Summary**
 
 ### **🛡️ Private Security Audits**
@@ -97,16 +108,6 @@ My work blends **deep EVM security expertise** with **practical on-chain develop
 
 ---
 
-# 🏢 Experience
-
-### **RecurXPay | Blockchain Developer**  
-**Sept 2025 – Oct 2025**
-- Designed and implemented smart contracts for **ERC-20, vesting, presale, and wallet systems**.  
-- Optimized contracts for **30%+ gas reduction**.  
-- Performed deep protocol testing using **fuzzing, invariants, and mainnet forking**.  
-- Conducted manual audits using Slither, Echidna, and custom checklists.
-
----
 
 # 🎓 Education
 
