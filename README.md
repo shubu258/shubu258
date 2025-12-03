@@ -30,12 +30,12 @@ My work blends **deep EVM security expertise** with **practical on-chain develop
 
 ---
 
-### **🕵️ Sherlock Public Contests**
+### **🕵️ Public Contests**
 - **2 High**  
 - **1 Medium**  
-- **5 Low**
+- **6 Low**
 
-**Total Verified Findings: _25 Vulnerabilities_**
+**Total Verified Findings: _26 Vulnerabilities_**
 
 ---
 
