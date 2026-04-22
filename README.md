@@ -10,6 +10,15 @@ My work blends **deep EVM security expertise** with **practical on-chain develop
 
 # 🏢 Experience
 
+### **Exaflair | Blockchain Developer** 
+**23 December 2025 - Present**
+-Took ownership of end-to-end smart contract development for WorkChain, from architecture design to testing and
+deployment on Solana.
+-Spent significant time learning Rust + Anchor, writing unit tests, debugging PDAs, and optimizing escrow logic.
+-Handled edge cases & security checks like double-claim prevention, authority validation, and safe fund transfers.
+-Collaborated with the team to translate business requirements into on-chain logic, ensuring real-world usability and
+scalability.
+
 ### **RecurXPay | Security Researcher**  
 **Sept 2025 – Oct 2025**
 - Secured smart contracts for **ERC-20, vesting, presale, and wallet systems**.  
@@ -21,21 +30,13 @@ My work blends **deep EVM security expertise** with **practical on-chain develop
 
 # 🔐 **Security & Audit Summary**
 
-### **🛡️ Private Security Audits**
-- **3 Critical** — Core logic breaks  
-- **4 High** — Direct fund loss  
-- **3 Medium** — Indirect fund loss  
-- **7 Low** — Best practices  
-- **3 Gas** — Gas optimization issues  
+### **🛡️ Private Security Audits (EVM)**
+- **Total Vulnerability: 20**
+- Report: ![Report](https://drive.google.com/file/d/122BFeFYzojGSN87atMspWMPrDA8aKrfk/view?usp=sharing)
 
----
-
-### **🕵️ Public Contests**
-- **2 High**  
-- **1 Medium**  
-- **6 Low**
-
-**Total Verified Findings: _26 Vulnerabilities_**
+### **🛡️ Private Audit Solana-dApp**
+- **Total Vulnerability: 21**
+- **Report:** ![Report](https://drive.google.com/file/d/1qCuSDYZPbx7iGOxNJpXo33J6gBBEcKXy/view?usp=sharing)
 
 ---
 
